@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/52wol1x12s28fgyx?svg=true)](https://ci.appveyor.com/project/molottva/cardbalance)
+[![Build status](https://ci.appveyor.com/api/projects/status/pg1gw76pbe6wci1g?svg=true)](https://ci.appveyor.com/project/malushkru0878/cardbalance)
 
 # Домашнее задание к занятию «2.4. BDD»
 
